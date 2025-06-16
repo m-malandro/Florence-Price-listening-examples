@@ -1,8 +1,8 @@
 # Florence-Price-listening-examples
 
 This repository is a companion to the ISMIR 2025 paper "The Florence Price Art Song Dataset and Piano Accompaniment Generator"
-- [Paper link (arXiv)](link/soon)
-- [Dataset link (github)](link/soon)
+- [Paper (arXiv)](link/soon)
+- [The Florence Price Art Song Dataset (github)](link/soon)
 - [Piano Accompaniment Generator (Colab)](https://colab.research.google.com/drive/1MRuk5y70M_hUjhOkD9KphFgJIgR1C9H-)
 
 Please see the releases to download the listening examples. There are 1400 of them: 20 melodies * 2 models * 35 generations per melody per model:
